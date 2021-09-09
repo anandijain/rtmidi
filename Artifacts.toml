@@ -4,8 +4,8 @@ git-tree-sha1 = "cfaaf4df489d45f28b3db800d2e961bba4b1c949"
 os = "macos"
 
     [[rtmidi.download]]
-    sha256 = "38059b2ab3939cf9651f5abf9aeb489645489ee31dad998b4f538137f161fef6"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "3ee0059ae0184f6df6006756219bf7b0d2785d32a642ac10758fedd11672af26"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.aarch64-apple-darwin.tar.gz"
 [[rtmidi]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -14,8 +14,8 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "3f552ee87153e34e80e9996851b25e163f7bc5f637805ba0e91bc33f07d72d24"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "0bfa7dbcc2e0f0b0db3230e40bff8eebbdfb92c893a6037efea860eeb23233bb"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[rtmidi]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -24,8 +24,8 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "4e694721bf6ef25c91378b93bb9aa4b3f4d0ea561d3a5201db9c71bb0e868572"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a1e1d6248c64a2b63dfbe284dbd5be0d45c487827f9db2799f5f4a8f6d3675a2"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[rtmidi]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -35,8 +35,8 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "87d4ed0175b00a5502b4f625ed5c318fae79c50e2e71f4ec387ffe48dd2544d2"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "c53eb3877a9570fc5a3f798472da90d044de6f3e0d71495fcbe43650e2ae9640"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[rtmidi]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -46,8 +46,8 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "d0cb8af7de1c45d666efdf480532d67e2b7c369ba28b07879a0f0ca41081c39e"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "349e25cd47605b0e96602591e416093e434dff5b01fc278ef62dcd97f5ec4802"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[rtmidi]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -56,8 +56,8 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "1025fd91f67c317a2428ee7f7f9c45dc3fb702e36f74e4420927f3375b4d1662"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "01114ac355526c059e92cf4eb6bb59df2a7fb69c75d1197ed18a6fe0df06c424"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.i686-linux-gnu-cxx03.tar.gz"
 [[rtmidi]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -66,26 +66,26 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "69a719fe98af11ec075255b312f7f00e37fc0ad585f807328ef44ea9e63c1db1"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "4904c3a688074bb695405e026df69ae6a024306fcdf15d0844bdbe24439aee4d"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.i686-linux-gnu-cxx11.tar.gz"
 [[rtmidi]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3241ec747e2125aa6356dabbfde5c9a832133539"
+git-tree-sha1 = "c9349813bc2292f91aec3ef5813d49319089a0cd"
 os = "windows"
 
     [[rtmidi.download]]
-    sha256 = "35e5ea2b1118d658c2e788594b4636065dbda04299839ae3229191acdfbfe849"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "538d60c1908f04b89d99baad8980b5748eb3f3f4699e77e4253c8bea338da51e"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.i686-w64-mingw32-cxx03.tar.gz"
 [[rtmidi]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5e1724746a3b9b4b479b3c95be8c8c6716d5c0a3"
+git-tree-sha1 = "97e7e10404d0074700b746469b15c0f89ecd40e5"
 os = "windows"
 
     [[rtmidi.download]]
-    sha256 = "f6a029eaf42e733e4b3e0946cbb4ba3bc43a5266b54937a6c004fb1a2df9945a"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "241b6cb732c25c6c25edbba809954bf4d0723f43bb7487e8b4b90d37ba18ed7a"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.i686-w64-mingw32-cxx11.tar.gz"
 [[rtmidi]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -94,8 +94,8 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "d2cfdc0160e9e5d83cdd9015139b3e4e8b18fc824bebad3b4913512c5742039d"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "864bf9ce2fe3531e289307d5efb6250b48033538803437b7e436a8f936698ed3"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[rtmidi]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -104,16 +104,16 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "13fa76de65b716c99cecd4b5db3d600a6ff212e11ba095234b78d1c9bef83746"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "357c88ea2a6cc335367f944d55abc2794a7bce478a6db0ca63bcc24f4c04d7de"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[rtmidi]]
 arch = "x86_64"
 git-tree-sha1 = "9036dfda7927e88f6b3eaf4bba02327961404833"
 os = "macos"
 
     [[rtmidi.download]]
-    sha256 = "b40d78976bbaa6de0c9204e505cd0674a090d35f0af07baaf18f698a352b1983"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "34253f61d00c24e00dcf95fe4e7901d98ba6434ce8ab03b963d8834067cfe65e"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-apple-darwin.tar.gz"
 [[rtmidi]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -122,8 +122,8 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "3d4a59e9a5baf7d233471807558b724f1025524122fe39fbf0bfac07d9bd71f8"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "44464c17d3282e02e1c288f57457fffecedebf3f6107c2ac37b89f3a0feeb6ea"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[rtmidi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -132,23 +132,23 @@ libc = "glibc"
 os = "linux"
 
     [[rtmidi.download]]
-    sha256 = "6ee7aadb06ee8d57b9fc99c57e9f88f20ea7df62c77f7e5505b025b73fe77f3e"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "f641c6c9cf86a001f5c24fc0c4a1c82e850e5cd6ad25d4187ddcccd5b5ab4ca4"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[rtmidi]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d80ef29cfdc3c7b631dd08057ee631cb52d06fc7"
+git-tree-sha1 = "2cc90c09b38fb82d6b6c37d4266510110d306686"
 os = "windows"
 
     [[rtmidi.download]]
-    sha256 = "6f5554fdc8d5a4882cd23d70e6035617babaa312c0768741ac1464b99fd5c061"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "107f029c9eb0034f177e984c65e26ada0ee13fe004e9ef7a344a52a12946971a"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[rtmidi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ce6d37a00a6eb12bc4c8037b329a214562243ae"
+git-tree-sha1 = "2ebcf2c60f3edf0c158a9d7a9244a1874177e70f"
 os = "windows"
 
     [[rtmidi.download]]
-    sha256 = "e808fc54fc8f32903b0c167b3aa1e165108287b38d520cd388d4087a2e1726fb"
-    url = "https://github.com/anandijain/rtmidi_jll.jl/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "d8f25b892b202ddd76781506f50b8fdebb23c3c39f5728edd2a4c528ec715e4a"
+    url = "https://github.com/local/releases/download/rtmidi-v5.0.0+0/rtmidi.v5.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
